@@ -21,7 +21,7 @@
 BOARD_SECOND_CAMERA_DEVICE := /dev/video2
 
 # Kernel Config
-TARGET_KERNEL_CONFIG := cyanogenmod_galaxysmtd_defconfig
+TARGET_KERNEL_CONFIG := mahdi-galaxysmtd_defconfig
 
 # FM Radio
 BOARD_HAVE_FM_RADIO := true
