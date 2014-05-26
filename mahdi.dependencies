@@ -1,0 +1,17 @@
+[
+ {
+   "repository":  "android_device_samsung_aries-common",
+   "target_path": "device/samsung/aries-common",
+   "branch":      "kk-4.4"
+ },
+ {
+   "repository":  "android_kernel_samsung_aries",
+   "target_path": "kernel/samsung/aries",
+   "branch":      "kk-4.4"
+ },
+ {
+   "repository":  "android_vendor_samsung",
+   "target_path": "vendor/samsung",
+   "branch":      "kk-4.4"
+ }
+]
